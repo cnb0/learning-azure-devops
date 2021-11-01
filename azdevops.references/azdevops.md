@@ -1,5 +1,5 @@
 
-Section 1: DevOps Principles And Azure DevOps Project Management
+## Section 1: DevOps Principles And Azure DevOps Project Management
   
 Chapter 1: Azure DevOps Overview
   
@@ -47,7 +47,7 @@ Chapter 2: Managing Projects With Azure DevOps Boards
             Queries
     
      
-Section 2: Source Code And Builds
+##  Section 2: Source Code And Builds
   
 Chapter 3: Source Control Management With Azure DevOps
   
@@ -136,7 +136,7 @@ Chapter 6: Hosting Your Own Azure Pipeline Agent
             Creating an Azure VM scale set
             Setting up Azure pipeline agents with VM scale set
     
-Section 3: Artifacts And Deployments
+##  Section 3: Artifacts And Deployments
   
 Chapter 7: Using Artifacts With Azure DevOps
   
@@ -166,7 +166,7 @@ Chapter 8: Deploying Applications With Azure DevOps
             Using deployment groups
             YAML release pipelines with Azure DevOps
     
-Section 4: Advanced Features Of Azure DevOps
+##  Section 4: Advanced Features Of Azure DevOps
   
 Chapter 9: Integrating Azure DevOps With GitHub
   
